@@ -6,8 +6,6 @@ Möchte:
 - Nginx Proxy Manager
 - Observium
 - Invoiceninja
-- Unifi
-
 - Mail Server
 - Papermerge
 - Bookstack
@@ -22,6 +20,7 @@ Möchte:
 - Jitsi
 - Pi-hole
 - 3CX
+- Unifi
 
 Habe:
 - Apache2
