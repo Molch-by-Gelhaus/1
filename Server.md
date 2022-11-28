@@ -1,0 +1,2 @@
+- nextcloud
+- website mit wordpress
