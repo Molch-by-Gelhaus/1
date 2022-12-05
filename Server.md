@@ -21,6 +21,7 @@ Möchte:
 - Pi-hole
 - 3CX
 - Unifi
+- Moodle
 
 Habe:
 - Apache2
