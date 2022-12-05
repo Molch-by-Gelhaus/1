@@ -26,6 +26,4 @@ Habe:
 - Apache2
 - PHP
 - WordPress
-- Moodle
-- Afterlogic Webmail
 - Webmin
