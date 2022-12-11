@@ -1,20 +1,26 @@
 # Grundlagen der Programmierung
 
------------
+---
 
-- Von-Neumann-Rechnerarchitektur
-  - Alles im Grunde Nullen und Einsen (An und Aus)
-  - CPU Arten
-    - x86
-    - ARM
 
------------
+# Von-Neumann-Rechnerarchitektur
+- Alles im Grunde Nullen und Einsen (An und Aus)
+- CPU bildet Herzstück
+- CPU Arten
+  - x86
+  - ARM
+
+---
 
 # Programmiersprachen
 
-Was ist das?
+---
 
------------
+# Programmiersprachen
+
+Was heißt das genau?
+
+---
 
 # Maschinencode
 
@@ -22,7 +28,7 @@ Was ist das?
 - Architekturabhängig 
 - Bspw. `0101010111000011000111`
 
------------
+---
 
 # Assembler 
 
@@ -30,7 +36,7 @@ Was ist das?
 - Viele nötige Allokationen, für das Verständnis jedoch redundant
 - Architekturabhängig 
 
------------
+---
 
 # Assembler
 ```console
@@ -58,8 +64,30 @@ END     Anfang                  ;- dem Assembler- und Linkprogramm den Programm-
                                 ;- dadurch erhaelt der Befehlszaehler beim Aufruf des Programmes diesen Wert
 ```
 
------------
+---
 
 # Höhere Programmiersprachen 
 
-Der Haufen über den alle eigentlich sprechen
+- Python
+- Dart
+- Java
+- Javascript (Ecmascript)
+    - Typescript
+
+---
+
+# Höhere Programmiersprachen 
+
+- Python
+- **Dart**
+- Java
+- Javascript (Ecmascript)
+    - Typescript
+
+---
+
+# Primitive Datentypen
+- Integer (Ganze Zahlen $Z$)
+- Float, Double oder auch Fließkommazahlen (Reelle Zahlen $R$)
+- String (Zeichenketten)
+- Boolean (Wahrheitswert Wahr und Falsch oder auch 0 und 1)
