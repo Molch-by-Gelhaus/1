@@ -6,6 +6,7 @@
 // typ variablenname = wert;
 
 int i = 1;
+int a = 25;
 double d = 32.21;
 
 String s = "HALLO";
@@ -32,10 +33,14 @@ int sub = i - 4;
 // Multiplikation
 int mult = i * 32;
 // Division
-int errorDiv = 20 / 5;
-// was geht den hier schief?
 double div = 20 / 5;
 
 void main(List<String> args) {
-  print(div);
+  print("Das ist das Ergebnis von der Variable add:  $add");
+  print("Das ist das Ergebnis von der Variable sub: $sub");
+  print("Das ist das Ergebnis von der Variable mult: $mult");
+  print("Das ist das Ergebnis von der Variable div:  $div");
+  print("Das ist das Ergebnis von der Variable i:    $i");
+  print("Das ist das Ergebnis von der Variable a:    $a");
+  print("Das haben sie eingegeben:                   $args");
 }
