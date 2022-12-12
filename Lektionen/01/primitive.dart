@@ -8,7 +8,7 @@
 int i = 1;
 double d = 32.21;
 
-String s = "Das ist eine Zeichenkette";
+String s = "HALLO";
 
 bool b = true;
 
