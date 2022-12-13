@@ -88,6 +88,6 @@ END     Anfang                  ;- dem Assembler- und Linkprogramm den Programm-
 
 # Primitive Datentypen
 - Integer (Ganze Zahlen $Z$)
-- Float, Double oder auch Fließkommazahlen (Reelle Zahlen $R$)
+- Float, Double oder auch Fließkommazahlen (Rationale Zahlen $Q$)
 - String (Zeichenketten)
 - Boolean (Wahrheitswert Wahr und Falsch oder auch 0 und 1)
